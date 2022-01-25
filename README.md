@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 Want to work with me? Connect with me on:
 * [LinkedIn](https://www.linkedin.com/in/sparshcodes)
 * [Instagram](https://www.instagram.com/_sparsh1208_)
-* [Mail](mailto: sparsh.singh1000@gmail.com)
+<!-- * [Whatsapp](https://api.whatsapp.com/send?phone=919082213431) -->
