@@ -1,4 +1,4 @@
-### Hi there I am [Sparsh Singh](https://sparsh-singh.web.app), A Full Stack Developer based in Mumbai.
+### Hey there! I am [Sparsh Singh](https://sparsh-singh.web.app), A Full Stack Developer based in Mumbai.
 
 <!--
 **sparshsingh21/sparshsingh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sparshsingh21&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sparshsingh21&layout=compact)
+
+Want to work with me? Connect with me on:
+* [LinkedIn](https://www.linkedin.com/in/sparshcodes)
+* [Instagram](https://www.instagram.com/_sparsh1208_)
+* [Mail](mailto: sparsh.singh1000@gmail.com)
