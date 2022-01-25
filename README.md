@@ -1,4 +1,4 @@
-### Hi there I am !Sparsh Singh[https://sparsh-singh.web.app], A Full Stack Developer based in Mumbai.
+### Hi there I am ![Sparsh Singh](https://sparsh-singh.web.app), A Full Stack Developer based in Mumbai.
 
 <!--
 **sparshsingh21/sparshsingh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
